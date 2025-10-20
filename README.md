@@ -46,8 +46,10 @@ python main.py
 
 ## Exemplo de Uso
 
-![Exemplo da CalculadoraIMC](<img width="339" height="299" alt="image" src="https://github.com/user-attachments/assets/74190a48-bc3b-49e8-bcc0-f0a4bbc59d55" />
-)
+<img width="300" height="254" alt="print_calculadora_imc" src="https://github.com/user-attachments/assets/8751f92d-ae62-46d8-b58a-06c3b8217eb2" />
+<img width="300" height="254" alt="image" src="https://github.com/user-attachments/assets/c07c1c3e-6859-4331-bcea-2a108a1bbf4f" />
+
+
 
 ## Estrutura do Projeto
 
