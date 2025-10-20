@@ -58,8 +58,3 @@ CalculadoraIMC/
 └── README.md        # Documentação do projeto
 ```
 
----
-
-Se você quiser, posso criar uma **versão ainda mais “bonita” do README** com **GIF ou imagens do app funcionando**, badges de Python, e seções de “contribuição” e “melhorias futuras”, deixando ele pronto para impressionar no GitHub.
-
-Quer que eu faça isso?
